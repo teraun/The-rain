@@ -1,0 +1,6 @@
+{
+  "name": "The Rain of Silver Fish - 60s Animated Film",
+  "description": "A 60-second hand-inked 2D animated film across 15 seamless 4-second scenes with character reference, diegetic sound, and visual fidelity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
